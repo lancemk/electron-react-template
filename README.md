@@ -1,9 +1,8 @@
-# Electron Build - Storm UI
-
-
----
+# Electron React Build
 
 ## Project Structure Reference
+
+---
 
 1. [Package Setup](https://mmazzarolo.com/blog/2021-08-12-building-an-electron-application-using-create-react-app/)
 
